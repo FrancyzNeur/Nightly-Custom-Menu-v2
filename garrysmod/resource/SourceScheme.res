@@ -26,7 +26,7 @@ Scheme
 
 		"Blank"				"0 0 0 0"
 
-		"GMod_BG_Opaque"	"24 7 51 230"  // Main Background Color
+		"GMod_BG_Opaque"	"30 33 61 200"  // Main Background Color
 		"GMod_BG"			"108 111 114 0" // SRCDS cannot do transparency, so we gotta replace Blank with this.
 		"GMod_WhiteBlank"	"255 255 255 0"
 
