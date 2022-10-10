@@ -24,6 +24,11 @@
 
     Скрины можете посмотреть здесь - 
     https://purplemod.cf/
+    Заслуга:
+     I'm 
+    Gaerisson - Иконки, идея
+    YogPod - Дополнительное меню
+   
    ENG:
     A new improved menu for your favorite game - Garry's mod.
     You will meet there such changes as:
@@ -49,3 +54,8 @@
 
      You can see the screenshots here - 
      https://purplemod.cf/
+  
+    Credits:
+    I'm 
+    Gaerisson - Icons, idea
+    YogPod - Additional menu
